@@ -1,4 +1,5 @@
 // Determine intensities of spots in primase dropout experiments from coordinates
+// ImageJ 1.4 macro
 // James Graham, 2015
 
 // Intensity measurement of tracked spots in leading-strand-only experiments
