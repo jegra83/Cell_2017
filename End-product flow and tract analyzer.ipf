@@ -1,3 +1,5 @@
+//// Igor Pro 6.x code to analyze replication end-products for anchor points and tracts.
+
 #pragma rtGlobals=3		// Use modern global access method and strict wave access.
 #include <Peak AutoFind>
 
