@@ -1,7 +1,5 @@
 /// dsDNA tract finder
-/// (c) James Graham, 2015
-/// All rights reserved.
-
+/// James Graham, 2015
 
 #pragma rtGlobals=3		// Use modern global access method and strict wave access.
 #include <Peak AutoFind>
